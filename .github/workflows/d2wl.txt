@@ -95,3 +95,6 @@ dimwishlist:item=602618796&perks=202670084,3142289711,0,0,0,0
 
 #CHRYSURA MELO/ХРИЗИДИДА МЕЛО
 dimwishlist:item=1337707096&perks=202670084,3142289711,0,0,0,0
+
+#HAILING CONFUSION/СНЕЖНОЕ СМЯТЕНИЕ
+dimwishlist:item=2870169846&perks=202670084,1885400500,0,0,0,0
