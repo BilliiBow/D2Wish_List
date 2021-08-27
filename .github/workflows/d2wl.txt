@@ -98,3 +98,6 @@ dimwishlist:item=1097616550&perks=202670084,3142289711
 
 #IOTA DRACONIS/ЙОТА ДРАКОНА
 dimwishlist:item=3044460004&perks=202670084,2969185026,0,0,0,0
+
+#DREAM BREAKER/РАЗРУШИТЕЛЬ НАДЕЖД
+dimwishlist:item=2931957300&perks=202670084,2969185026,0,0,0,0
