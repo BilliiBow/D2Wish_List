@@ -101,3 +101,9 @@ dimwishlist:item=3044460004&perks=202670084,2969185026,0,0,0,0
 
 #DREAM BREAKER/РАЗРУШИТЕЛЬ НАДЕЖД
 dimwishlist:item=2931957300&perks=202670084,2969185026,0,0,0,0
+
+#THERMAL EROSION/ТЕПЛОВАЯ ЭРОЗИЯ
+dimwishlist:item=1766088024&perks=202670084,1885400500,0,0,0,0
+
+#THE SWARM/РОЙ (АДЕПТ)
+dimwishlist:item=3836861464&perks=202670084,3142289711,0,1546637391,0,0
